@@ -1,0 +1,78 @@
+
+.whoweare {
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+}
+
+.image-text {
+	margin: 0 70px;
+}
+
+
+.image-text img {
+	display: inline-block;
+	vertical-align: middle;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+}
+
+.para p {
+	font-family: "Open Sans", Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: #333;
+  line-height: 1.5;
+  text-align: justify;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.image-text {
+ width: 180px;
+ height: 174px;
+ background: #E4D8DC;
+ border-radius: 15px;
+ box-shadow: 1px 5px 60px 0px #100a886b;
+}
+
+.image-text .card-border-top {
+ width: 60%;
+ height: 3%;
+ background: #C9D1D3;
+ margin: auto;
+ border-radius: 0px 0px 15px 15px;
+}
+
+.image-text span {
+ font-weight: 600;
+ color: #F200D;
+ text-align: center;
+ display: block;
+ padding-top: 10px;
+ font-size: 16px;
+}
+
+.image-text .job {
+ font-weight: 400;
+ color: #F200D;
+ display: block;
+ text-align: center;
+ padding-top: 3px;
+ font-size: 12px;
+}
+
+.image-text .img {
+ width: 70px;
+ height: 80px;
+ background: #6b64f3;
+ border-radius: 15px;
+ margin: auto;
+ margin-top: 25px;
+ display: block; 
+  margin: 0 auto;
+}

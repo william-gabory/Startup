@@ -1,0 +1,29 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(214, 229, 240, 0.3), rgba(215, 229, 240, 0.3) 50%), url(../../images/horse.jpeg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 49px;
+	text-align: center;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+.btn-blue {
+	display: block;
+  	margin: 0 auto;
+  	margin-top: 10px;
+  	text-align: center;
+  	width: 189px;
+}
+
